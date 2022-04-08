@@ -4,7 +4,7 @@
 
 Auf dem [API-Portal des Bundes](https://bund.dev/) und hier auf [GitHub.com/bundesAPI](https://github.com/bundesAPI) finden Sie Dokumentationen zu Programmierschnittstellen von Verwaltungsleistungen und Informationsportalen des Bundes. Die Dokumentionen liegen idR. im API-Dokumentationsformat OpenAPI 3 vor und sind insofern sowohl menschen- als auch maschinenlesbar.
 
-Momentan finden sich auf [bund.dev](https://bund.dev/apis) bereits Dokumentationen zu mehr als 25 Programmierschnittstellen - wobei die Zahl online verfügbarer und dokumentierbarer Schnittstellen aufgrund des "Gesetzes zur Änderung des E-Government-Gesetzes und zur Einführung des Gesetzes für die Nutzung von Daten des öffentlichen Sektors" (2. Open-Data-Gesetz) bis 2024 stark anwachsen wird. 
+Momentan finden sich auf [bund.dev](https://bund.dev/apis) bereits Dokumentationen zu mehr als 30 Programmierschnittstellen - wobei die Zahl online verfügbarer und dokumentierbarer Schnittstellen aufgrund des "Gesetzes zur Änderung des E-Government-Gesetzes und zur Einführung des Gesetzes für die Nutzung von Daten des öffentlichen Sektors" (2. Open-Data-Gesetz) bis 2024 stark anwachsen wird. 
 
 
 ## Schnittstellen für alle Lebens- und Geschäftslagen
