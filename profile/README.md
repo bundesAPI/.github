@@ -14,7 +14,7 @@ Egal ob Sie als Privatperson eine Open-Source-Anwendung bauen oder als Unternehm
 
 ## Zivilgesellschaftliches Beteiligungsverfahren 
 
-Auf [GitHubcom/bundesAPI](https://github.com/bundesAPI) und im [bund.dev Slack](https://join.slack.com/t/bunddev/shared_invite/zt-zvvyike8-39zn4X_xSw8JL0dqcIaFqA) haben Sie die Möglichkeit, selbst durch Vorschläge, Diskussionsbeiträge und die aktive Dokumentation von Programmierschnittstellen mitzuwirken. 
+Auf [GitHub.com/bundesAPI](https://github.com/bundesAPI) und im [bund.dev Slack](https://join.slack.com/t/bunddev/shared_invite/zt-zvvyike8-39zn4X_xSw8JL0dqcIaFqA) haben Sie die Möglichkeit, selbst durch Vorschläge, Diskussionsbeiträge und die aktive Dokumentation von Programmierschnittstellen mitzuwirken. 
 
 Näheres dazu erfahren Sie im GitHub-Repository [bundesAPI/sofortmassnahmen](https://github.com/bundesAPI/sofortmassnahmen). Wir freuen uns auf Ihre Beiträge und Pull-Requests!
 
