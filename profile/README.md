@@ -1,4 +1,4 @@
-> [!Hinweis]
+> [!CAUTION]
 > Momentan stehen die von uns angebotenen API-Proxies aufgrund exzessiver Nutzung nicht verfügbar.
 
 # Bundesstelle Open Data!
